@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CheckWinner from "./tictacwinner";
+import CheckWinner from "../src/tictacwinner";
 
 const Tictac = ({ size = 3 }) => {
   let Intialboard = () =>

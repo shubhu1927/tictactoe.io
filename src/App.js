@@ -1,5 +1,5 @@
 import "./styles.css";
-import Tictac from "../Tictactoe";
+import Tictac from "../src/Tictactoe"
 
 export default function App() {
   return (
